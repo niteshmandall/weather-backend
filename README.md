@@ -133,12 +133,3 @@ Authorization: Bearer <your_token_here>
 
 ---
 
-### Contributing
-
-Feel free to open issues or submit PRs if you want to contribute to this project.
-
----
-
-### License
-
-This project is licensed under the MIT License.
